@@ -3,7 +3,7 @@
 An interactive JavaScript simulation demonstrating dynamic wire motion using physics principles and HTML5 Canvas rendering.
 
 ## 🚀 Live Demo
-👉 https://abhinav20-pixel.github.io/Physics-of-Wires--AviNav/
+👉 https://kmr-abhinav23.github.io/Physics-of-Wires--AviNav/
 
 ## 📌 Features
 - Smooth dynamic wire animation
